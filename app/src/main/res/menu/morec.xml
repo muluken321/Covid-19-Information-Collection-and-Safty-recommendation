@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+       
+        <item
+            android:id="@+id/m22"
+            android:icon="@drawable/precaution"
+            android:title="Precautions"
+            app:showAsAction="ifRoom"/>
+         <item
+            android:id="@+id/m33"
+            android:icon="@drawable/self"
+            android:title="Self Check"
+             app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/m44"
+        android:icon="@drawable/loc"
+        android:title="Locations"
+        app:showAsAction="ifRoom"/>
+			
+         
+</menu>

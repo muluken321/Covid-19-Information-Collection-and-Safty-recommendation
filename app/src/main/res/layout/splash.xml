@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:id="@+id/rlaydigus"
+    android:background="@drawable/bghistryselfcheck"
+    android:layout_centerVertical="true"
+    android:layout_height="match_parent">
+
+</AbsoluteLayout>
